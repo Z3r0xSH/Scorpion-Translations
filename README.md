@@ -15,7 +15,7 @@ This repository will be used as the offical platform for people to upload transl
 1. Download this GitHub repo.
 2. Follow the same instructions from before for translating.
 3. Upload the translations to any other platform (i.e Google Drive)
-4. In the root folder create a text file and put the information asked i step 4 in that file.
+4. In the root folder create a text file and put the information asked in step 4 in that file.
 5. Send me the link via Discord or Twitter.
 
 Once translations are submitted I will personally verify them and add them to Scorpion's source code. Proper credits will be given inside Scorpion's preferences.
