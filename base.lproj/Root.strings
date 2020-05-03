@@ -1,20 +1,20 @@
 {
-  "ROOT_ENABLED" = "Enabled";
+  "ROOT_ENABLED" = "مفعل";
 
-  "ROOT_COLORING_STYLE" = "Coloring style";
-  "ROOT_COLORING_FOOTER" = "Selecting \"Adaptative\" will disable all custom colors (including blurs).";
+  "ROOT_COLORING_STYLE" = "الشكل و التلوين";
+  "ROOT_COLORING_FOOTER" = "إختيار وضع \"Adaptative\" سيقوم بتخطي كل التلوينات اللتي قمت بإختيارها.";
 
-  "ROOT_GENERAL_SETTINGS" = "General settings";
-  "ROOT_CUSTOMIZATION" = "Customization";
-  "ROOT_CALL_HANDLING" = "Call handling";
-  "ROOT_MISCEALLANOUS" = "Miscellaneous";
-  "ROOT_SECRET" = "Secret menu";
+  "ROOT_GENERAL_SETTINGS" = "إعدادات عامة";
+  "ROOT_CUSTOMIZATION" = "التخصيص";
+  "ROOT_CALL_HANDLING" = "تلقي المكالمة";
+  "ROOT_MISCEALLANOUS" = "إعدادات أخرى";
+  "ROOT_SECRET" = "القائمة السرية";
 
-  "ROOT_TOOLS" = "Tools";
-  "ROOT_TEST_INCOMING" = "Test incoming banner";
-  "ROOT_TEST_INSIDE" = "Test inside banner";
-  "ROOT_RESET" = "Reset preferences";
+  "ROOT_TOOLS" = "أدوات";
+  "ROOT_TEST_INCOMING" = "تجربة تلقي إشعار";
+  "ROOT_TEST_INSIDE" = "تجربة إشعار داخلي";
+  "ROOT_RESET" = "إرجاع الإعدادات الأصلية";
   "ROOT_RESPRING" = "Respring";
 
-  "ROOT_SUPPORT" = "Support";
+  "ROOT_SUPPORT" = "الدعم";
 }
